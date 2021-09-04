@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{13E4D38E-4261-D6A1-3092-D6662D1B1FAE}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Bird.cs">
+    <Files>
+      <File FileName="Assets/Bird.cs" Line="31" Column="71" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Angry Bird" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="02eb5bc9-1d7a-4fd7-9d24-01053d115f61" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
